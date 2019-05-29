@@ -1,0 +1,9 @@
+theme: jekyll-theme-slate
+title: DCS
+description: "A Fast and Scalable Device-Centric Server Architecture"
+show_downloads: true
+repository: "dongupkwon/test"
+
+exclude:
+  - "#*"
+  - "*~"
